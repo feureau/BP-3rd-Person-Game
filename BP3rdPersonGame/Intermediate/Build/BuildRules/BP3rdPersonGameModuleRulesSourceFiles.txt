@@ -1,0 +1,3 @@
+D:\Github\BP-3rd-Person-Game\BP3rdPersonGame\Source\BP3rdPersonGame\BP3rdPersonGame.Build.cs
+D:\Github\BP-3rd-Person-Game\BP3rdPersonGame\Source\BP3rdPersonGame.Target.cs
+D:\Github\BP-3rd-Person-Game\BP3rdPersonGame\Source\BP3rdPersonGameEditor.Target.cs

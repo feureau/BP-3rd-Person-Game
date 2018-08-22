@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BP3rdPersonGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Github\BP-3rd-Person-Game\BP3rdPersonGame\Intermediate\Build\Win64\BP3rdPersonGameEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Github\BP-3rd-Person-Game\BP3rdPersonGame\Intermediate\Build\Win64\UE4Editor\Development\BP3rdPersonGame\BP3rdPersonGame.cpp.obj"
+"D:\Github\BP-3rd-Person-Game\BP3rdPersonGame\Intermediate\Build\Win64\UE4Editor\Development\BP3rdPersonGame\BP3rdPersonGameGameModeBase.cpp.obj"
+"D:\Github\BP-3rd-Person-Game\BP3rdPersonGame\Intermediate\Build\Win64\UE4Editor\Development\BP3rdPersonGame\BP3rdPersonGame.init.gen.cpp.obj"
+"D:\Github\BP-3rd-Person-Game\BP3rdPersonGame\Intermediate\Build\Win64\UE4Editor\Development\BP3rdPersonGame\BP3rdPersonGameGameModeBase.gen.cpp.obj"
+"D:\Github\BP-3rd-Person-Game\BP3rdPersonGame\Intermediate\Build\Win64\UE4Editor\Development\BP3rdPersonGame\PCLaunch.rc.res"
+/OUT:"D:\Github\BP-3rd-Person-Game\BP3rdPersonGame\Intermediate\Build\Win64\UE4Editor\Development\BP3rdPersonGame\UE4Editor-BP3rdPersonGame.lib"

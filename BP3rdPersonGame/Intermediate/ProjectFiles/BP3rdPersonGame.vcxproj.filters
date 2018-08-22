@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\BP3rdPersonGame.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{D98BCD03-5FFA-4243-95B7-8F207DA31B0D}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\BP3rdPersonGame.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\BP3rdPersonGameEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{675E0C73-BCCC-472C-A580-B2AE0E756EF0}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\BP3rdPersonGame">
+			<UniqueIdentifier>{ED2BB4E0-DCEE-40AF-973F-DEBDB5A079E1}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\BP3rdPersonGame\BP3rdPersonGame.Build.cs">
+			<Filter>Source\BP3rdPersonGame</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\BP3rdPersonGame\BP3rdPersonGame.cpp">
+			<Filter>Source\BP3rdPersonGame</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BP3rdPersonGame\BP3rdPersonGame.h">
+			<Filter>Source\BP3rdPersonGame</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\BP3rdPersonGame\BP3rdPersonGameGameModeBase.cpp">
+			<Filter>Source\BP3rdPersonGame</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BP3rdPersonGame\BP3rdPersonGameGameModeBase.h">
+			<Filter>Source\BP3rdPersonGame</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

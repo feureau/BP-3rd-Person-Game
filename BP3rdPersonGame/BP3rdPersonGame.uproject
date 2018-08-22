@@ -1,0 +1,14 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.20",
+	"Category": "",
+	"Description": "",
+	"Enterprise": true,
+	"Modules": [
+		{
+			"Name": "BP3rdPersonGame",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
